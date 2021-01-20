@@ -1,11 +1,11 @@
 ### Hi there, I'm Sabbir - aka [sh-sabbir][website] 👋
 
 ## I'm a Developer, and lazy!
-- 🔭 I’m currently working on a [Android App][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on [Happy Elementor Addons][ha]!
+- 🌱 I’m currently learning everything 🤣 Kidding.. Learning Vue.js!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw, play guitar (if you approve as music or noise), read books, riding cycle, sleep...
 
 ### Connect with me:
 
@@ -45,6 +45,7 @@
 <img align="left" alt="sh-sabbir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sh-sabbir&show_icons=true&hide_border=true" />
 
 [website]: https://iamsabbir.dev
+[ha]: https://wordpress.org/plugins/happy-elementor-addons/
 [twitter]: https://twitter.com/#
 [instagram]: https://instagram.com/#
-[linkedin]: https://linkedin.com/in/#
+[linkedin]: https://linkedin.com/in/sabbirshouvo
