@@ -42,7 +42,7 @@
 
 ---
 
-<img align="left" alt="sh-sabbir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sh-sabbir&show_icons=true&hide_border=true&&count_private=true&theme=dark" />
+<img align="left" alt="sh-sabbir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sh-sabbir&show_icons=true&hide_border=true&&count_private=true&theme=tokyonight" />
 
 [website]: https://iamsabbir.dev
 [ha]: https://wordpress.org/plugins/happy-elementor-addons/
