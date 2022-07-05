@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabbir</h1>
-<h3 align="center">A passionate WordPress developer from Bangladesh</h3>
+<h3 align="center">A passionate WordPress developer & Core contributor</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sh-sabbir&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark" alt="sh-sabbir" />
