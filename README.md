@@ -38,9 +38,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh-sabbir&show_icons=true&locale=en&hide_border=true&&count_private=true&theme=tokyonight" alt="sh-sabbir" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-sabbir&hide_border=true&&count_private=true&theme=tokyonight" alt="sh-sabbir" />
+<p align="left">
+  <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=sh-sabbir&show_icons=true&locale=en&hide_border=true&&count_private=true&theme=tokyonight" alt="sh-sabbir" />
+  <img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sh-sabbir&hide_border=true&&count_private=true&theme=tokyonight" alt="sh-sabbir" />
 </p>
 
 
