@@ -44,6 +44,8 @@
   <img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sh-sabbir&hide_border=true&&count_private=true&theme=tokyonight" alt="sh-sabbir" />
 </p>
 
+---
+<a href="https://app.daily.dev/shouvo"><img src="https://api.daily.dev/devcards/v2/fnpoWztlj.png?type=wide&r=gsn" width="100%" alt="Sabbir Hasan's Dev Card"/></a>
 
 [website]: https://iamsabbir.dev
 [ha]: https://wordpress.org/plugins/happy-elementor-addons/
